@@ -1,4 +1,5 @@
 # Exercise 1
+Author: Juan Poveda
 
 1. The two classes are: OrderLookup and SupportChatbot
 2. One object of each class in main.py: order_tool and bot
